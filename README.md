@@ -3,7 +3,9 @@
 
 Nama kelompok:
 1.Maria indriani lelu
+
 2.yustina dhambo
+
 3.Fransiska cerlis oda
 
 ## 1. Daftar Jenis Data yang Dibutuhkan
