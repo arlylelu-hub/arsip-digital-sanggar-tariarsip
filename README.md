@@ -9,45 +9,46 @@ Nama kelompok:
 
 3.Fransiska cerlis oda
 
-Okeee, aku buatkan isian yang sesuai dengan 4 poin yang diminta dosen kamu, dengan tema Arsip Digital Sanggar Tari. Formatnya sudah disusun seperti tugas kuliah, jadi bisa kamu salin ke Word. Angka jumlah data dan ukuran file merupakan asumsi untuk perencanaan satu tahun.
 
-# ANALISIS KEBUTUHAN ARSIP DIGITAL SANGGAR TARI
 
-## 1. Daftar Jenis Data yang Dibutuhkan
 
-Arsip digital sanggar tari merupakan sistem penyimpanan data secara digital yang digunakan untuk menyimpan dokumentasi dan informasi kegiatan sanggar tari. Jenis data yang dibutuhkan meliputi:
+Arsip digital sanggar tari merupakan sistem penyimpanan berbagai informasi dan dokumentasi kegiatan sanggar dalam bentuk digital. Tujuannya adalah mempermudah penyimpanan, pencarian, pengelolaan, serta pelestarian dokumentasi seni tari agar dapat digunakan kembali pada masa mendatang.
 
-| No. | Jenis Data | Keterangan |
-| --- | --- | --- |
-| 1 | Data anggota | Identitas penari, pelatih, dan pengurus sanggar. |
-| 2 | Data materi tari | Informasi nama tarian, sejarah, dan gerakan tari. |
-| 3 | Dokumentasi foto | Foto latihan, pertunjukan, dan kegiatan sanggar. |
-| 4 | Dokumentasi video | Rekaman latihan, pertunjukan, dan tutorial tari. |
-| 5 | Dokumen administrasi | Surat, proposal, laporan kegiatan, dan sertifikat. |
-| 6 | Data kegiatan | Jadwal latihan, pementasan, dan acara sanggar. |
-| 7 | File musik pengiring | Musik yang digunakan untuk latihan dan pertunjukan tari. |
-| 8 | Data kostum dan properti | Informasi kostum, aksesori, dan perlengkapan tari. |
+Jenis data yang dibutuhkan meliputi:
 
-## 2. Karakteristik Tiap Jenis Data Menggunakan Kerangka 6 Pertanyaan (5W+1H)
+| No. | Jenis Data | Isi Data | Format File |
+| --- | --- | --- | --- |
+| 1 | Data anggota | Nama, alamat, nomor telepon, foto anggota | XLSX, PDF, JPG |
+| 2 | Materi tari | Nama tarian, sejarah, asal daerah, deskripsi gerakan | PDF, DOCX |
+| 3 | Dokumentasi foto | Foto latihan, pertunjukan, kostum, dan kegiatan | JPG, PNG |
+| 4 | Dokumentasi video | Video latihan, pertunjukan, dan tutorial gerakan | MP4 |
+| 5 | Dokumen administrasi | Surat, proposal, laporan, sertifikat | PDF, DOCX |
+| 6 | Data kegiatan | Jadwal latihan, pementasan, dan acara sanggar | XLSX, PDF |
+| 7 | Musik pengiring | Musik tari, rekaman gamelan, dan audio latihan | MP3, WAV |
+| 8 | Data kostum dan properti | Nama kostum, jumlah, kondisi, dan foto properti | XLSX, JPG, PDF |
 
-Kerangka 5W+1H digunakan untuk menjelaskan karakteristik setiap data berdasarkan enam pertanyaan, yaitu What, Who, Where, When, Why, dan How.
+## 2. Karakteristik Tiap Jenis Data Berdasarkan Kerangka 6 Pertanyaan (5W+1H)
+
+Kerangka 5W+1H digunakan untuk mengetahui karakteristik setiap jenis data berdasarkan enam pertanyaan: What (apa), Who (siapa), Where (di mana), When (kapan), Why (mengapa), dan How (bagaimana).
 
 | Jenis Data | What (Apa) | Who (Siapa) | Where (Di mana) | When (Kapan) | Why (Mengapa) | How (Bagaimana) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Data anggota | Identitas anggota sanggar | Penari dan pengurus | Database sanggar | Saat pendaftaran | Mendata anggota | Formulir digital |
-| Materi tari | Informasi tarian | Pelatih dan koreografer | Folder materi tari | Saat materi dibuat atau diperbarui | Melestarikan pengetahuan tari | Dokumen PDF dan teks |
-| Foto | Foto latihan dan pertunjukan | Fotografer dan anggota | Folder foto | Saat kegiatan berlangsung | Dokumentasi kegiatan | File JPG atau PNG |
-| Video | Rekaman latihan dan pertunjukan | Pelatih dan videografer | Folder video | Saat latihan atau pementasan | Pembelajaran dan dokumentasi | File MP4 |
-| Administrasi | Surat dan laporan | Pengurus dan sekretaris | Folder administrasi | Saat dokumen dibuat | Keperluan administrasi | File PDF atau DOCX |
-| Kegiatan | Jadwal dan agenda sanggar | Pengurus dan pelatih | Kalender digital | Sebelum dan sesudah kegiatan | Mengatur kegiatan | Tabel atau kalender digital |
-| Musik | Musik pengiring tari | Pelatih dan penata musik | Folder audio | Saat latihan dan pertunjukan | Mengiringi tarian | File MP3 atau WAV |
-| Kostum dan properti | Data perlengkapan tari | Pengurus inventaris | Folder atau database inventaris | Saat pendataan dan pembaruan | Mengontrol perlengkapan | Tabel dan foto digital |
+| Data anggota | Identitas penari dan pengurus | Anggota dan pengurus sanggar | Database anggota | Saat pendaftaran dan pembaruan data | Mempermudah pendataan anggota | Dicatat melalui formulir digital |
+| Materi tari | Informasi nama, sejarah, dan gerakan tarian | Pelatih dan koreografer | Folder materi tari | Saat materi dibuat atau diperbarui | Melestarikan pengetahuan tari | Disimpan dalam PDF atau DOCX |
+| Dokumentasi foto | Foto latihan dan pertunjukan | Fotografer dan anggota | Folder foto digital | Saat latihan dan pementasan | Sebagai bukti dan dokumentasi kegiatan | Diambil menggunakan kamera atau HP, lalu disimpan dalam JPG/PNG |
+| Dokumentasi video | Rekaman latihan, pertunjukan, dan tutorial tari | Penari, pelatih, dan dokumentator | Folder video digital | Saat latihan, pementasan, atau pembuatan tutorial | Sebagai bahan evaluasi, pembelajaran, dan pelestarian tari | Direkam menggunakan kamera atau HP dan disimpan dalam format MP4 |
+| Dokumen administrasi | Surat, proposal, laporan, dan sertifikat | Sekretaris dan pengurus | Folder administrasi | Saat dokumen dibuat atau diterima | Mendukung kegiatan administrasi sanggar | Dibuat secara digital atau dipindai menjadi PDF |
+| Data kegiatan | Jadwal latihan, pementasan, dan acara | Pengurus dan pelatih | Folder atau kalender digital | Sebelum dan sesudah kegiatan | Mengatur jadwal dan mencatat riwayat kegiatan | Dicatat dalam tabel atau kalender digital |
+| Musik pengiring | File musik yang digunakan untuk menari | Pelatih dan penata musik | Folder audio | Saat latihan dan pementasan | Mendukung proses latihan dan pertunjukan | Disimpan dalam format MP3 atau WAV |
+| Data kostum dan properti | Informasi kostum, aksesori, dan perlengkapan tari | Pengurus inventaris | Folder inventaris digital | Saat pendataan dan pembaruan inventaris | Mengetahui jumlah dan kondisi perlengkapan | Dicatat dalam tabel serta dilengkapi foto |
 
 ## 3. Asumsi Jumlah Unit dan Ukuran Rata-rata
 
-Untuk memperkirakan kebutuhan penyimpanan, diasumsikan sanggar tari memiliki sekitar 50 anggota dan melakukan kegiatan latihan serta pementasan selama satu tahun.
+Untuk menghitung kebutuhan penyimpanan, digunakan asumsi bahwa sanggar tari memiliki sekitar 50 anggota dan melakukan kegiatan latihan serta pementasan selama satu tahun.
 
-| No. | Jenis Data | Jumlah Unit | Ukuran Rata-rata per Unit | Total Ukuran |
+Jumlah unit dan ukuran rata-rata berikut merupakan perkiraan untuk perencanaan, bukan data aktual dari sanggar tertentu.
+
+| No. | Jenis Data | Asumsi Jumlah Unit | Ukuran Rata-rata per Unit | Total Ukuran |
 | --- | --- | --- | --- | --- |
 | 1 | Data anggota | 50 data | 0,5 MB | 25 MB |
 | 2 | Materi tari | 20 file | 2 MB | 40 MB |
@@ -55,58 +56,106 @@ Untuk memperkirakan kebutuhan penyimpanan, diasumsikan sanggar tari memiliki sek
 | 4 | Dokumentasi video | 60 video | 500 MB | 30.000 MB |
 | 5 | Dokumen administrasi | 300 file | 2 MB | 600 MB |
 | 6 | Data kegiatan | 200 catatan | 0,1 MB | 20 MB |
-| 7 | File musik pengiring | 40 file | 10 MB | 400 MB |
+| 7 | Musik pengiring | 40 file | 10 MB | 400 MB |
 | 8 | Data kostum dan properti | 100 data | 3 MB | 300 MB |
 |  | Total |  |  | 36.185 MB |
 
-Keterangan: jumlah unit dan ukuran rata-rata merupakan asumsi untuk kebutuhan perencanaan, bukan data aktual dari sanggar tertentu.
+### Penjelasan khusus dokumentasi video
+
+Dokumentasi video merupakan salah satu jenis data yang membutuhkan kapasitas penyimpanan terbesar karena ukuran video lebih besar dibandingkan dokumen teks atau foto.
+
+Asumsi dokumentasi video selama satu tahun adalah sebagai berikut:
+
+| Jenis Video | Jumlah Video | Ukuran Rata-rata | Total Ukuran |
+| --- | --- | --- | --- |
+| Video latihan tari | 30 video | 500 MB | 15.000 MB |
+| Video pertunjukan | 20 video | 500 MB | 10.000 MB |
+| Video tutorial gerakan | 10 video | 500 MB | 5.000 MB |
+| Total | 60 video |  | 30.000 MB (30 GB) |
+
+Video latihan digunakan untuk mengevaluasi gerakan penari. Video pertunjukan digunakan sebagai dokumentasi pementasan, sedangkan video tutorial digunakan sebagai bahan pembelajaran gerakan tari.
+
+Ukuran rata-rata 500 MB per video diasumsikan untuk rekaman berdurasi sedang dengan kualitas gambar yang cukup baik. Ukuran sebenarnya dapat berbeda sesuai durasi, resolusi, dan pengaturan perekaman.
+
+Contoh struktur folder penyimpanan video:
+
+Arsip Digital Sanggar Tari
+
+Video Latihan
+
+Video Pertunjukan
+
+Video Tutorial
+
+Setiap folder dapat diisi dengan file MP4 yang diberi nama berdasarkan jenis tarian, tanggal, dan nama kegiatan.
 
 ## 4. Estimasi Total Storage Ditambah Cadangan 30%
 
-Berdasarkan tabel sebelumnya, total kebutuhan penyimpanan awal adalah 36.185 MB.
+Estimasi storage dilakukan dengan menjumlahkan ukuran seluruh data, kemudian menambahkan cadangan sebesar 30% untuk mengantisipasi pertambahan data.
 
-A. Menghitung total storage awal
+### A. Menghitung total ukuran data
 
-$$
-36.185\text{ MB} \div 1.000 = 36{,}185\text{ GB}
-$$
-
-Jadi, total storage awal adalah 36,185 GB.
-
-B. Menghitung cadangan penyimpanan 30%
-
-Cadangan diperlukan untuk mengantisipasi pertambahan file dan kebutuhan penyimpanan tambahan.
+Berdasarkan tabel asumsi jumlah unit dan ukuran rata-rata, diperoleh:
 
 $$
 \begin{aligned}
-\text{Cadangan} &= 30\% \times 36{,}185\\
-&= 10{,}8555\text{ GB}
+S &= 25+40+4.800+30.000\\
+&\quad+600+20+400+300\\
+&=36.185\text{ MB}
 \end{aligned}
 $$
 
-Jadi, kapasitas cadangan adalah 10,8555 GB.
+Dengan menggunakan konversi 1 GB = 1.000 MB:
 
-C. Menghitung total kebutuhan storage
+$$
+36.185 \div 1.000=36{,}185\text{ GB}
+$$
+
+Jadi, total ukuran data awal adalah 36,185 GB.
+
+### B. Menghitung cadangan storage 30%
+
+Cadangan storage dihitung dengan mengalikan total data awal dengan 30%.
 
 $$
 \begin{aligned}
-\text{Total storage} &= 36{,}185 + 10{,}8555\\
-&= 47{,}0405\text{ GB}
+C &= 30\%\times36{,}185\\
+&=0{,}30\times36{,}185\\
+&=10{,}8555\text{ GB}
+\end{aligned}
+$$
+
+Jadi, kebutuhan kapasitas cadangan adalah 10,8555 GB.
+
+### C. Menghitung total kebutuhan storage
+
+Total kebutuhan storage diperoleh dari penjumlahan data awal dan cadangan 30%.
+
+$$
+\begin{aligned}
+S_{\text{total}}&=S+C\\
+&=36{,}185+10{,}8555\\
+&=47{,}0405\text{ GB}
 \end{aligned}
 $$
 
 Ringkasan hasil perhitungan:
 
-| Komponen | Kapasitas |
+| Komponen | Hasil |
 | --- | --- |
-| Total data awal | 36,185 GB |
+| Total ukuran data awal | 36,185 GB |
 | Cadangan 30% | 10,8555 GB |
 | Total kebutuhan storage | 47,0405 GB |
 | Rekomendasi kapasitas media penyimpanan | 64 GB |
 
-## Kesimpulan
+Kapasitas 64 GB direkomendasikan sebagai kapasitas awal karena lebih besar daripada hasil perhitungan kebutuhan sebesar 47,04 GB. Namun, kapasitas aktual yang tersedia dapat sedikit lebih kecil daripada kapasitas nominal perangkat.
 
-Berdasarkan analisis kebutuhan arsip digital sanggar tari, terdapat delapan jenis data yang perlu dikelola, yaitu data anggota, materi tari, dokumentasi foto, dokumentasi video, dokumen administrasi, data kegiatan, file musik pengiring, serta data kostum dan properti.
+## 5. Kesimpulan
 
-Dengan asumsi jumlah data selama satu tahun, total ukuran penyimpanan awal diperkirakan sebesar 36,185 GB. Setelah ditambahkan cadangan sebesar 30%, total kebutuhan penyimpanan menjadi 47,0405 GB. Oleh karena itu, kapasitas media penyimpanan sebesar 64 GB dapat digunakan sebagai kapasitas awal untuk menampung arsip digital sanggar tari selama satu tahun.
+Berdasarkan analisis kebutuhan arsip digital sanggar tari, terdapat delapan jenis data utama yang perlu dikelola, yaitu data anggota, materi tari, dokumentasi foto, dokumentasi video, dokumen administrasi, data kegiatan, musik pengiring, serta data kostum dan properti.
 
+Setiap jenis data memiliki karakteristik yang berbeda berdasarkan kerangka 5W+1H, mulai dari isi data, pihak yang terlibat, lokasi penyimpanan, waktu pembuatan, tujuan penyimpanan, hingga cara pengelolaannya.
+
+Berdasarkan asumsi kebutuhan selama satu tahun, total ukuran data diperkirakan mencapai 36,185 GB. Dokumentasi video menjadi komponen terbesar dengan kebutuhan sekitar 30 GB. Setelah ditambahkan cadangan sebesar 30%, total kebutuhan penyimpanan menjadi 47,0405 GB.
+
+Dengan demikian, media penyimpanan berkapasitas 64 GB dapat digunakan sebagai kapasitas awal untuk arsip digital sanggar tari selama satu tahun berdasarkan asumsi tersebut. Untuk menjaga keamanan arsip, sanggar juga sebaiknya menyediakan salinan cadangan terpisah dan mengatur hak akses terhadap data anggota serta dokumentasi yang bersifat pribadi.
